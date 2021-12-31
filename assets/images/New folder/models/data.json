@@ -1,0 +1,433 @@
+{
+    "profile": {
+      "user": {
+        "id": "8940348a-1165-46dd-b323-e24aa0ecd85b",
+        "first_name": "Computiq",
+        "last_name": "Team",
+        "email": "info@computiq.tech"
+      },
+      "course": [
+        {
+          "id": 2,
+          "title": "CS50x Iraq",
+          "duration": 6,
+          "level": "beginner",
+          "effort": "6 - 10",
+          "price": 300000,
+          "discount": 0,
+          "subject": "In-Person",
+          "english_level": "beginner",
+          "description": "<p>Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript. Problem sets are inspired by the arts, humanities, social sciences, and sciences. The course culminates in a final project. Designed for concentrators and non-concentrators alike, with or without prior programming experience. Two-thirds of CS50 students have never taken CS before. Among the overarching goals of this course are to inspire students to explore unfamiliar waters, without fear of failure, create an intensive, shared experience, accessible to all students, and build community among students.</p>",
+          "what_you_learn": "<p>- A broad and robust understanding of computer science and programming.<br />\r\n- How to think algorithmically and solve programming problems efficiently.<br />\r\n- Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.<br />\r\n- Familiarity in a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML.<br />\r\n- How to engage with a vibrant community of like-minded learners from all levels of experience.<br />\r\n- How to develop and present a final programming project to your peers.</p>",
+          "is_published": true,
+          "is_multi_module": true,
+          "image": "/media/media/program/CS50x-min.jpg",
+          "instructors": [
+            {
+              "id": 1,
+              "photo": "/media/media/instructor/Abdullah.png",
+              "name": "Abdullah Shallal",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "With over 7 years of experience, he is a full-stack web developer with a passion for open-source philosophy, proactive and self-motivated to develop complex projects."
+            },
+            {
+              "id": 3,
+              "photo": "/media/media/instructor/Fadi.png",
+              "name": "Fadi Ramzi",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "With over 7 years of experience, he is a full-stack software developer with strong personal attributes, self-directed, problem-solving, self-employed, training,  and leadership."
+            },
+            {
+              "id": 4,
+              "photo": "/media/media/instructor/Suhaib.png",
+              "name": "Suhaib Salih",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "A System Administrator working on managing web hosting servers for 8 years. Also has worked on different systems and technologies, from small personal sites to managing dedicated hosting servers."
+            }
+          ],
+          "modules": [
+            {
+              "id": 1,
+              "title": "CS - Programming Fundamentals",
+              "description": "<p>This is module #1 from several modules of the CS50x course, which will start with trainees from having no knowledge to becoming an efficient junior programmer in C Language.<br />\r\nThis module covers the fundamentals of computer science as well as the art of programming for majors and non-majors alike, with or without prior programming experience.<br />\r\nIt teaches the trainee how to think algorithmically and solve problems in an efficient manner.<br />\r\nWe will cover the most important topics in this module including abstraction, algorithms, and data structures.<br />\r\nC Language, Scratch GUI Language, and a variety of tools are among the technologies employed.<br />\r\nAt the end of the module, the trainee will be a good junior programmer ready for the next journey of the CS50x course.</p>",
+              "duration": 6,
+              "price": 250000,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 2,
+              "title": "CS - Python & Database",
+              "description": "<p>This is module #2 of the CS50x course. In this module, trainees will learn a new programming language called Python.. it has additional features as well as simplicity, leading to its popularity. By covering all the basic concepts in the Python programming language trainers will have a solid foundation that able them to build connections with any Relational database, in this module we focus on SQL and able them to work on a database build on their own.<br />\r\nAt the end of this module, the trainee will have a solid knowledge of Python and SQL that help him build any application backend.</p>",
+              "duration": 4,
+              "price": 150000,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 3,
+              "title": "CS - Web Development",
+              "description": "<p>This is module #3 in a series of modules in the CS50x course that will take the student from having no knowledge to becoming an effective junior Web Developer.<br />\r\nThis subject covers the foundations of web development, including what technologies are available and how to use them to create web applications. Whether you have prior programming skills or none, you will leave with cognitive units to build on and the know-how to expand your skillset.<br />\r\nIt teaches the student how to organize and design their applications and how security is involved and how important it is in this workflow.<br />\r\nIn this module, we will explore the most significant subjects, such as HTML, CSS, JS, Python, Flask, and Database, and how to make them work together.<br />\r\nAt the end of each phase, the student will have built small to medium web apps using a toolkit used to construct some of the most sophisticated web applications at scale.</p>",
+              "duration": 6,
+              "price": 300000,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 4,
+              "title": "Final Project",
+              "description": "<p>The final project is the course&#39;s pinnacle. The final project is your chance to put your acquired programming knowledge to use and create your own software. The nature of your project is totally up to you as long as it draws on the lessons of this course; however, it must be approved by the team. As long as the team approves, you may carry out your project in any language(s). You are free to use any infrastructure as long as the team has access to any hardware and software that your project demands.</p>\r\n\r\n<p>All we ask is that you develop something that interests you, solve a real problem, have an effect on lives, or change the world. Make an effort to develop something that will outlast this course.</p>",
+              "duration": 4,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            }
+          ],
+          "status": "current",
+          "link": "https://forms.gle/9PCLuq2XjgshhWmZ6",
+          "category": null,
+          "program_date": "2021-11-26",
+          "timeline": {
+            "days": [
+              {
+                "day": "Friday",
+                "from": "10:00 AM",
+                "to": "1:00 PM"
+              },
+              {
+                "day": "Saturday",
+                "from": "12:30 AM",
+                "to": "3:30 PM"
+              },
+              {
+                "day": "Tuesday",
+                "from": "6:00 PM",
+                "to": "7:00 PM"
+              }
+            ]
+          },
+          "note": "",
+          "tasks": [
+            {
+              "id": "95ed7053-652f-4630-8baa-9083544aea43",
+              "title": "Week 0",
+              "description": "<p><strong>Tasks:</strong></p>\r\n\r\n<hr />\r\n<ol>\r\n\t<li><span style=\"color:#000000\">Submit</span>&nbsp;<a href=\"https://academy.computiq.tech/#/scratch\">this problem on Scratch</a>.</li>\r\n</ol>"
+            },
+            {
+              "id": "a1c922b9-08df-4ef2-b694-4e6bc9903b88",
+              "title": "Week 1",
+              "description": "<p><strong>Tasks:</strong></p>\r\n\r\n<hr />\r\n<p><span style=\"color:#000000\">1-Submit <strong>one</strong> of:</span></p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://academy.computiq.tech/#/mario-less\">this version of Mario</a><span style=\"color:#000000\">&nbsp;if feeling less comfortable.</span></li>\r\n\t<li><a href=\"https://academy.computiq.tech/#/mario-more\">this version of Mario</a><span style=\"color:#000000\">&nbsp;if feeling more comfortable.</span></li>\r\n</ul>\r\n\r\n<p><span style=\"color:#000000\">2-Submit <strong>one</strong> of:</span></p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://academy.computiq.tech/#/cash\">Cash</a><span style=\"color:#000000\">&nbsp;if feeling less comfortable.</span></li>\r\n\t<li><a href=\"https://academy.computiq.tech/#/credit\">Credit</a>&nbsp;<span style=\"color:#000000\">if feeling more comfortable.</span></li>\r\n</ul>"
+            },
+            {
+              "id": "9c55b3cd-ed09-40b5-96ec-36b93b5a3523",
+              "title": "Week 2",
+              "description": "<p><strong>Tasks:</strong></p>\r\n\r\n<hr />\r\n<ol>\r\n\t<li><span style=\"color:#000000\">Submit</span>&nbsp;<a href=\"https://academy.computiq.tech/#/readability\">Readability</a></li>\r\n\t<li><span style=\"color:#000000\">Submit <strong>one</strong> of:</span>\r\n\t<ul>\r\n\t\t<li><a href=\"https://academy.computiq.tech/#/caesar\">Caesar</a>&nbsp;<span style=\"color:#000000\">if feeling less comfortable</span></li>\r\n\t\t<li><a href=\"https://academy.computiq.tech/#/substitution\">Substitution&nbsp;</a><span style=\"color:#000000\">if feeling more comfortable</span></li>\r\n\t</ul>\r\n\t</li>\r\n</ol>"
+            },
+            {
+              "id": "879d9cfd-bd75-4606-a8ce-e4107be7c648",
+              "title": "Week 3",
+              "description": "<p><strong>Tasks:</strong></p>\r\n\r\n<hr />\r\n<ol>\r\n\t<li><span style=\"color:#000000\">Submit</span><a href=\"https://academy.computiq.tech/#/plurality\">&nbsp;Plurality</a></li>\r\n\t<li><span style=\"color:#000000\">Submit <strong>one</strong> of</span>:\r\n\t<ul>\r\n\t\t<li><a href=\"https://academy.computiq.tech/#/runoff\">Runoff&nbsp;</a><span style=\"color:#000000\">if feeling less comfortable</span></li>\r\n\t\t<li><a href=\"https://academy.computiq.tech/#/tideman\">Tideman</a><span style=\"color:#000000\">&nbsp;if feeling more comfortable</span></li>\r\n\t</ul>\r\n\t</li>\r\n</ol>"
+            },
+            {
+              "id": "cf285c73-5d71-4e4c-ba94-6e05c5e2c8ca",
+              "title": "Week 4",
+              "description": "<p><strong>Tasks:</strong></p>\r\n\r\n<hr />\r\n<ol>\r\n\t<li><span style=\"color:#000000\">Submit <strong>one</strong> of:</span>\r\n\r\n\t<ul>\r\n\t\t<li><a href=\"https://academy.computiq.tech/#/filter-less\">this version of Filter</a><span style=\"color:#000000\">&nbsp;if feeling less comfortable</span></li>\r\n\t\t<li><a href=\"https://academy.computiq.tech/#/filter-more\">this version of Filter</a>&nbsp;<span style=\"color:#000000\">if feeling more comfortable</span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"color:#000000\">Submit</span>&nbsp;<a href=\"https://academy.computiq.tech/#/recover\">Recover</a></li>\r\n</ol>"
+            },
+            {
+              "id": "028c2b0a-39bb-4444-a93a-55722e742089",
+              "title": "Week 5",
+              "description": "<p><strong>Tasks:</strong></p>\r\n\r\n<hr />\r\n<ol>\r\n\t<li><span style=\"color:#000000\">Submit</span>&nbsp;<a href=\"https://academy.computiq.tech/#/speller\">Speller</a></li>\r\n</ol>"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Full-Stack Development Bootcamp",
+          "duration": 21,
+          "level": "mid",
+          "effort": "6 - 10",
+          "price": 0,
+          "discount": 0,
+          "subject": "In-Person, Virtual And Online",
+          "english_level": "upper_beginner",
+          "description": "<p>Hello and welcome to this Full Stack training program. This course focuses primarily on Django and React; however, we will cover much more than these frameworks. We will make real apps comprising a restful backend API and a front-end web app built utilizing the SPA paradigm.<br />\r\n<br />\r\nWe&#39;ll learn how to construct a user authentication (register and login users), a full CRUD (create, read, update, and delete), and our endpoints. We will demonstrate how to connect with the API and the web app. We&#39;ll learn how to layout the application and restrict certain sections of it to just authenticated users. All of this has been accomplished using well-known frameworks. We will be using the javascript and python programming languages, so some familiarity with these is necessary.<br />\r\n<br />\r\nThis course is divided into two sections: an introduction to the framework in which we explain everything from the ground up and a hands-on portion in which you construct a complete application. After completing this course, you will have knowledge and expertise in building a full-stack application using Django and React.<br />\r\n<br />\r\nWe will also demonstrate how to deploy a backend API and a front-end web app on a production server.</p>",
+          "what_you_learn": "<p>- You will learn how to Git<br />\r\n- You will be able to manage source code versions, and update, retrieve, and control the history of your source code.<br />\r\n- You will learn about HTTP protocol and application design paradigm<br />\r\n- You will learn how to write a maintainable restful APIs and backend services<br />\r\n- You will learn Django and Python and how to utilize the vast ecosystem of the Django framework<br />\r\n- You will learn advanced JS and React to build extendable user interfaces<br />\r\n- You will learn how to consume backend APIs and exchange data with the backend to create rich web applications<br />\r\n- You will master how to manage data exchange between two systems, how to validate them, and handle errors efficiently<br />\r\n- You will gain enough knowledge on how to integrate with external systems, thus you will be able to integrate with payment gateways, various data providers, and scrap data from other REST APIs.</p>",
+          "is_published": true,
+          "is_multi_module": true,
+          "image": "/media/media/program/IMG_20210905_204346_077-min.jpg",
+          "instructors": [
+            {
+              "id": 2,
+              "photo": "/media/media/instructor/Laith.png",
+              "name": "Layth Zuhair",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "With over 15 years of experience in the tech industry, he is a full-stack developer with solid and deep technical understanding and teaching Jedi powers."
+            },
+            {
+              "id": 3,
+              "photo": "/media/media/instructor/Fadi.png",
+              "name": "Fadi Ramzi",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "With over 7 years of experience, he is a full-stack software developer with strong personal attributes, self-directed, problem-solving, self-employed, training,  and leadership."
+            },
+            {
+              "id": 4,
+              "photo": "/media/media/instructor/Suhaib.png",
+              "name": "Suhaib Salih",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "A System Administrator working on managing web hosting servers for 8 years. Also has worked on different systems and technologies, from small personal sites to managing dedicated hosting servers."
+            }
+          ],
+          "modules": [
+            {
+              "id": 5,
+              "title": "Backend",
+              "description": "<p><span style=\"color:#0e101a\">Welcome here to the module on Creating a Backend REST API with Python, Django, and Django-Ninja.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">Suppose you&#39;re a solo programmer, a tech entrepreneur, or maybe just starting out creating backends. This module enables you to set the preparation for your knowledge and expertise and lets you have the tools to improve your skills using some of today&#39;s most in-demand programming languages.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">APIs are the hidden heroes behind the technology that we all like and rely on daily.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">An API is amongst the essential components of any digital firm. As a result, understanding how to design an API from beginning to end is necessary for each developer. You can&#39;t develop a successful app unless you have a backend REST API!</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">This module will teach you how to create and update user profiles, change passwords, create objects, upload photos, filter and search items, and more.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">Doing something is the most significant way to learn it. So the course&#39;s practical application &ndash; the project you&#39;ll work on with us &ndash; is a backend service API.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">By the summing-up of this module, you will have created a fully functional REST API capable of handling:</span></p>\r\n\r\n<ul>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">User registration</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Creating Objects</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Object filtering and sorting</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">How to read and uploading pictures</span></li>\r\n</ul>\r\n\r\n<p><span style=\"color:#0e101a\">You&#39;ll also discover just how to:</span></p>\r\n\r\n<ul>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Create a project.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Use best practices concepts.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">How to manage file uploads.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">How to customize Django admin views.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Set up a Postgres database.</span></li>\r\n</ul>\r\n\r\n<p><span style=\"color:#0e101a\">This module has a single goal: to show you how to build an advanced API from beginning to end using best practices concepts.</span></p>",
+              "duration": 6,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 6,
+              "title": "Frontend",
+              "description": "<p><span style=\"color:#0e101a\">Welcome to the second module in which you will learn about React!</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">This module introduces ideas one by one, reinforcing each new topic with an excellently crafted activity or assignment to put your knowledge to the test.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">React is the most widely used JS library, and there has never been a better time to learn it! Companies worldwide, including internet behemoths like Facebook, Airbnb, and Uber, are turning to React to help manage their JavaScript mayhem.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">The highlights are as follows:</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">Learn React from the ground up, starting with the fundamentals and on to more complex subjects.</span></p>\r\n\r\n<ul>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Create a colossal capstone application.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Discover the most recent React developments. We create a whole app.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Use the useContext and useReducer hooks to learn about state management.</span></li>\r\n</ul>",
+              "duration": 6,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 7,
+              "title": "Entrepreneurship",
+              "description": "<p>Work on real-world challenges in your community and real-world projects that you may do either alone or in a group.</p>",
+              "duration": 1,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 8,
+              "title": "UI/UX",
+              "description": "<p>Beginning with an understanding of how to implement UI/UX, we will next apply what we have learned to project ideas in order to obtain the final UI/UX for the projects.</p>",
+              "duration": 1,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 9,
+              "title": "Final Project",
+              "description": "<p>As part of this module, we will complete a capstone project to apply our previous knowledge to a single massive project.</p>\r\n\r\n<p>During the course, each participant will extract their best knowledge and what they learned at the start of the study and apply it to a colossal SPA application, providing their career path with a boost to the top.</p>\r\n\r\n<p>You will add a large project to your portfolio, increasing your likelihood of securing a position as a full-time full-stack application developer following graduation.</p>",
+              "duration": 4,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 10,
+              "title": "Deployment",
+              "description": "<p>Finally, we will learn how to deploy our project in this module.<br />\r\nWe&#39;ll set up an entire production environment for the backend, deploy our Django project there, and then learn how to create our front-end for production and publish it on Netlify with custom subdomains and an SSL certificate.</p>",
+              "duration": 2,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 11,
+              "title": "Freelancing",
+              "description": "<p>We will discuss freelancing and how to break into the Iraqi freelance economy.<br />\r\nWe will learn about the soft skills that we need to improve, what we need to focus on to obtain the necessary connection network, and how to sell ourselves to look desirable to the client and get the job.</p>",
+              "duration": 1,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            }
+          ],
+          "status": "closed",
+          "link": "https://forms.gle/auLuKhfqXoMTTEb99",
+          "category": {
+            "id": 1,
+            "title": "GIZ",
+            "image": "/media/media/program/categories/GIZ_Cooperation_Logo_HR.jpg"
+          },
+          "program_date": "2021-10-04",
+          "timeline": {
+            "days": [
+              {
+                "day": "Sunday",
+                "from": "4:00 PM",
+                "to": "7:00 PM"
+              },
+              {
+                "day": "Tuesday",
+                "from": "4:00 PM",
+                "to": "7:00 PM"
+              },
+              {
+                "day": "Friday",
+                "from": "4:00 PM",
+                "to": "7:00 PM"
+              }
+            ]
+          },
+          "note": "",
+          "tasks": [
+            {
+              "id": "f814363f-5d48-47c9-808f-5f03be57df4a",
+              "title": "Week 0",
+              "description": "<p>Task: IP Address Classifier</p>\r\n\r\n<p>Task resolution process:</p>\r\n\r\n<ul>\r\n\t<li>Fork the repo</li>\r\n\t<li>Clone the forked repo to your local machine</li>\r\n\t<li>Resolve the task</li>\r\n\t<li>Commit your solution</li>\r\n\t<li>Push to GitHub</li>\r\n\t<li>create a pull request</li>\r\n</ul>\r\n\r\n<p>Task 1:</p>\r\n\r\n<p>Important Note: No third party packages or libraries are allowed!</p>\r\n\r\n<p>Build a command line tool that receives an IP address in the format: x.x.x.x/x, and print the class of the IP address.</p>\r\n\r\n<p>Class resolution should contain the following information:</p>\r\n\r\n<ol>\r\n\t<li>IP address class (A, B, C, D, E)</li>\r\n\t<li>IP address designation (Private, Public, Special)</li>\r\n</ol>\r\n\r\n<p>References:</p>\r\n\r\n<p><a href=\"https://www.meridianoutpost.com/resources/articles/IP-classes.php\" rel=\"nofollow\">https://www.meridianoutpost.com/resources/articles/IP-classes.php</a></p>\r\n\r\n<p><a href=\"https://github.com/laith43d/ipcalculator-LZ-\">https://github.com/laith43d/ipcalculator-LZ-</a></p>\r\n\r\n<p>python main.py 127.0.0.1/24</p>\r\n\r\n<p>Output: Class: A, Designation: Special</p>\r\n\r\n<p>python main.py 192.168.1.1/24</p>\r\n\r\n<p>Output: Class: C, Designation: Private<br />\r\n<br />\r\n<a href=\"https://github.com/computiq/GIZ_TASK1_IP_CLASSIFIER\"><span style=\"color:#0000ff\">Task REPO on Github</span></a></p>"
+            },
+            {
+              "id": "d928b895-a759-43fd-aabc-e3f2af653c87",
+              "title": "Week 1",
+              "description": "<h1>GIZ Task 2 - Headless CMS</h1>\r\n\r\n<p>Task resolution process:</p>\r\n\r\n<ul>\r\n\t<li>Fork the repo</li>\r\n\t<li>Clone the forked repo to your local machine</li>\r\n\t<li>Resolve the task</li>\r\n\t<li>Commit your solution</li>\r\n\t<li>Push to GitHub</li>\r\n\t<li>create a pull request</li>\r\n</ul>\r\n\r\n<h1>Task 2:</h1>\r\n\r\n<h2>create the following API endpoints</h2>\r\n\r\n<p>This is a Headless CMS, where you have to CRUD (Create, Read, Update, and Delete) blog posts, you have to implement the task using files instead of database access.</p>\r\n\r\n<p>Each endpoint should serve only one method, please read the note below and follow the instructions.</p>\r\n\r\n<p>You can use any of the methods in utils.py, however you should implement the endpoint on your own.</p>\r\n\r\n<p>You have to set up NinjaAPI object, add routers to controllers.py, and as a bonus for extra points, you should implement the DELETE method.</p>\r\n\r\n<p>&#39;posts&#39; directory is where you should save/update and create posts, each file is a markdown file where the filename is the title of the post and the file content is the content of the post. Each file represents a single post. A sample of two files (two blog posts) are there for your reference.</p>\r\n\r\n<pre>\r\n# to list all posts\r\nGET /posts\r\n\r\n# to retrieve a certain post\r\nGET /posts/{title}\r\n\r\n# to create a new post\r\nPOST /posts\r\n\r\n# to update a certain post\r\nPUT /posts/{title}</pre>\r\n\r\n<p>bonus:</p>\r\n\r\n<pre>\r\n# to delete a certain post\r\nDELETE /posts/{title}</pre>\r\n\r\n<h3>Note</h3>\r\n\r\n<ul>\r\n\t<li>you can utilize any third party library or package</li>\r\n\t<li>and you should use the included utils.py</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://github.com/computiq/GIZ_TASK2_HEADLESS_CMS\"><span style=\"color:#0000ff\">Task REPO on Github</span></a></p>"
+            },
+            {
+              "id": "7fe23cb0-4ef5-4769-a1fb-028f3361346f",
+              "title": "Week 2",
+              "description": "<h2>GIZ Task 3 - COMMERCE</h2>\r\n\r\n<p>Task resolution process:</p>\r\n\r\n<p>* Fork the repo<br />\r\n* Clone the forked repo to your local machine<br />\r\n* Resolve the task<br />\r\n* Commit your solution<br />\r\n* Push to GitHub<br />\r\n* create a pull request</p>\r\n\r\n<p>This is an intermediary task, you will have to complete the task to move to the next one.</p>\r\n\r\n<h3>create the following API endpoints</h3>\r\n\r\n<div style=\"background:#eeeeee; border:1px solid #cccccc; padding:5px 10px\">return all products, you have to query the database somehow like for example: `Product.objects.all()`, then return the result QuerySet as a dictionary so Django-Ninja can serialize it to JSON.</div>\r\n\r\n<p><tt>http request<br />\r\nGET /api/products<br />\r\nContent-Type: application/json</tt><br />\r\n&nbsp;</p>\r\n\r\n<div style=\"background:#eeeeee; border:1px solid #cccccc; padding:5px 10px\">return all addresses, so you have to query the database to return all addresses: `Address.objects.all()`, then like in `products` endpoint, return a dictionary.</div>\r\n\r\n<p><tt>http request<br />\r\nGET /api/addresses<br />\r\nContent-Type: application/json</tt><br />\r\n&nbsp;</p>\r\n\r\n<h3><strong>Bonus task</strong>:</h3>\r\n\r\n<div style=\"background:#eeeeee; border:1px solid #cccccc; padding:5px 10px\">Instead of returning the related models as an ID, which is the default behaviour, you should return the related model data!</div>\r\n\r\n<p><strong>Hint</strong>:&nbsp;If you apply what you learned until now, you can solve the tasks, including the bonus task! Think well!</p>\r\n\r\n<p><strong>Note:</strong><br />\r\n* You can refer to Django docs, Django-Ninja docs, online research, or any cheating/copy-paste method you prefer ;)<br />\r\n* You can use what ever tools comfortable, packages, third party libraries, etc...</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong><a href=\"https://github.com/computiq/03-commerce\"><span style=\"color:#0000ff\">Task REPO on Github</span></a></strong></p>"
+            },
+            {
+              "id": "f952e003-c789-441b-b673-403dcbc8a4be",
+              "title": "Week 3",
+              "description": "<h1>Task 4</h1>\r\n\r\n<p>This task in complimentary task for the ongoing project (COMMERCE). Note: don&#39;t forget to&nbsp;<code>makemigrations</code>&nbsp;and&nbsp;<code>migrate</code></p>\r\n\r\n<h2>implement the following API endpoints</h2>\r\n\r\n<ul>\r\n\t<li>receives the item id and increase the quantity accordingly</li>\r\n\t<li>this endpoint is extremely similar to the reduce-quantity endpoint</li>\r\n</ul>\r\n\r\n<pre>\r\n/api/orders/item/{id}/increase-quantity</pre>\r\n\r\n<ul>\r\n\t<li>create a create-order endpoint</li>\r\n\t<li>this endpoint should satisfy the following\r\n\t<ul>\r\n\t\t<li>create a new order</li>\r\n\t\t<li>set ref_code to a randomly generated 6 alphanumeric value</li>\r\n\t\t<li>take all current items (ordered=False) and add them to the recently created order</li>\r\n\t\t<li>set added items (ordered field) to be True</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<pre>\r\n/api/orders/create</pre>\r\n\r\n<ul>\r\n\t<li>finish the addresses CRUD operations</li>\r\n</ul>\r\n\r\n<pre>\r\n/api/addresses</pre>\r\n\r\n<ul>\r\n\t<li>create the checkout endpoint\r\n\t<ul>\r\n\t\t<li>you should be able to add an optional note</li>\r\n\t\t<li>you should be able to add an address to the order</li>\r\n\t\t<li>set (ordered field) to True, thus the order becomes sealed</li>\r\n\t\t<li>change order status accordingly</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<pre>\r\n/api/orders/checkout</pre>\r\n\r\n<h2>Bonus - (Challenge)</h2>\r\n\r\n<ul>\r\n\t<li>the above API endpoints should satisfy the following\r\n\t<ul>\r\n\t\t<li>adding items to the cart are separate from the previous order items</li>\r\n\t\t<li>check if you have an active order, then the create-order endpoint will check for the matching items (i.e. if you have items in your active order that matches the items in the cart) and instead of adding them to the order, just merge them (add the quantities)</li>\r\n\t\t<li>you can only have one&nbsp;<strong>active</strong>&nbsp;order</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h1>Workflow</h1>\r\n\r\n<ul>\r\n\t<li>user lists the products\r\n\t<ul>\r\n\t\t<li>user can filter and search based on a specific criteria</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>user clicks on (add to cart) and specify the qty\r\n\t<ul>\r\n\t\t<li>item is created (cart item)</li>\r\n\t\t<li>user can increase the qty</li>\r\n\t\t<li>user can decrease the qty</li>\r\n\t\t<li>user can delete the item</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>user can order (create-order)</li>\r\n\t<li>user can add his address (multip)\r\n\t<ul>\r\n\t\t<li>user can update address</li>\r\n\t\t<li>user can delete address</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>user can checkout (checkout)</li>\r\n</ul>\r\n\r\n<h2>create order</h2>\r\n\r\n<ul>\r\n\t<li>add items and mark (ordered) field as True</li>\r\n\t<li>add ref_number</li>\r\n\t<li>add NEW status</li>\r\n\t<li>calculate the total</li>\r\n</ul>\r\n\r\n<h2>checkout</h2>\r\n\r\n<ul>\r\n\t<li>if this user has an active order</li>\r\n\t<li>add address</li>\r\n\t<li>accept note</li>\r\n\t<li>update the status</li>\r\n\t<li>mark order.ordered field as True</li>\r\n</ul>\r\n\r\n<h2>addresses</h2>\r\n\r\n<ul>\r\n\t<li>create addresses schema</li>\r\n\t<li>create crud operations</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong><a href=\"https://github.com/computiq/04-commerce\"><span style=\"color:#0000cc\">Task REPO on Github</span></a></strong></p>"
+            },
+            {
+              "id": "1fa876ed-b6dd-4857-ab57-b16f187b1411",
+              "title": "Week 4",
+              "description": "<h1>GIZ Task 5 - COMMERCE - AUTH</h1>\r\n\r\n<p>Task resolution process:</p>\r\n\r\n<ul>\r\n\t<li>Fork the repo</li>\r\n\t<li>Clone the forked repo to your local machine</li>\r\n\t<li>Resolve the task</li>\r\n\t<li>Commit your solution</li>\r\n\t<li>Push to GitHub</li>\r\n\t<li>create a pull request</li>\r\n</ul>\r\n\r\n<h1>Task 5</h1>\r\n\r\n<p>This task is a complimentary task for the ongoing project (COMMERCE).</p>\r\n\r\n<p>Note: don&#39;t forget to&nbsp;<code>makemigrations</code>&nbsp;and&nbsp;<code>migrate</code></p>\r\n\r\n<ul>\r\n\t<li>secure all API endpoints that requires authorization</li>\r\n\t<li>update the implementation accordingly, replace the hardcoded user with the respective implementation to retrieve the current user.</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong><a href=\"https://github.com/computiq/05-commerce\"><span style=\"color:#0000cc\">Task REPO on Github</span></a></strong></p>"
+            },
+            {
+              "id": "17826090-e6c0-4d3b-9830-113977fd77c6",
+              "title": "Week 5",
+              "description": "<h1>GIZ-07-landing-page</h1>\r\n\r\n<h2>TO DO:</h2>\r\n\r\n<ul>\r\n\t<li>Fork the repo</li>\r\n\t<li>Clone the forked repo to your local machine</li>\r\n\t<li>Resolve the task</li>\r\n\t<li>Commit your solution</li>\r\n\t<li>Push to GitHub</li>\r\n\t<li>Create a pull request</li>\r\n</ul>\r\n\r\n<p>Resources:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://drive.google.com/file/d/12xFxl29XPYFonTA8kgRgGl9fR0AzHn13/view?usp=sharing\"><span style=\"color:#0000ff\">UI Design (XD File) Link</span></a></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong><a href=\"https://github.com/ProgFadi/giz-07-landing-page\"><span style=\"color:#0000ff\">Task REPO on Github</span></a></strong></p>"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Yanhad Coding Bootcamp",
+          "duration": 12,
+          "level": "mid",
+          "effort": "6 - 10",
+          "price": 0,
+          "discount": 0,
+          "subject": "In-Person And Online",
+          "english_level": "upper_beginner",
+          "description": "<p>Welcome to this course, <strong>How to Build a Full-Stack Mobile App with Django and Flutter</strong>!</p>\r\n\r\n<p>Throughout this course, you will choose to construct REST APIs using Django and consume those APIs with Flutter mobile app.<br />\r\nThe skills covered in this course are critical for developing successful products that people like and cannot live without them.<br />\r\nYou name it: Facebook, Instagram, or Snapchat. Every one of these apps has its backend REST API that handles millions of call requests every day. One cannot build a successful app without a backend REST API.</p>\r\n\r\n<p>Not only is it necessary for whichever app or Prototype you are creating. The skills you will acquire in this course will turn you into a full-stack developer since you will make the backend APIs using Django and the iOS and Android applications utilizing a single code base.<br />\r\nAttend the training as a front-end developer? You will be able to &quot;talk backend&quot; and &quot;mobile&quot; with coworkers, grasp what&#39;s happening on &quot;under the hood&quot; among all your projects.</p>\r\n\r\n<p>You will boost your confidence and winning the admiration of your colleagues.</p>\r\n\r\n<p>If you&#39;re a new developer or just beginning out, this course will provide you with an efficient basis for developing your portfolio and improving your earning potential.</p>\r\n\r\n<p>By the conclusion of this course, you will have created a fully functional REST API as well as a mobile app capable of handling:</p>\r\n\r\n<ul>\r\n\t<li>Create and update user profiles.</li>\r\n\t<li>Login and authentication.</li>\r\n\t<li>Checkout after adding items to cart</li>\r\n\t<li>You&#39;ll also have a strong foundation for comprehending one of the most complicated aspects of mobile app development.\r\n\t<p>&nbsp;</p>\r\n\t</li>\r\n</ul>",
+          "what_you_learn": "<ul>\r\n\t<li><span style=\"color:#000000\">You will learn to manage source code versions, update, retrieve, and control source code history. </span></li>\r\n\t<li><span style=\"color:#000000\">The HTTP protocol and application design paradigm </span></li>\r\n\t<li><span style=\"color:#000000\">Write maintainable restful APIs </span></li>\r\n\t<li><span style=\"color:#000000\">Learn Django and Python and how to use the Django framework&#39;s massive ecosystem. </span></li>\r\n\t<li><span style=\"color:#000000\">Create extendable mobile app interfaces using sophisticated mobile frameworks like Flutter. </span></li>\r\n\t<li><span style=\"color:#000000\">You will grasp how to manage data transmission between two systems, verify them, and handle problems efficiently.</span></li>\r\n</ul>",
+          "is_published": true,
+          "is_multi_module": true,
+          "image": "/media/media/program/photo_2021-09-17_13-48-03.jpg",
+          "instructors": [
+            {
+              "id": 2,
+              "photo": "/media/media/instructor/Laith.png",
+              "name": "Layth Zuhair",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "With over 15 years of experience in the tech industry, he is a full-stack developer with solid and deep technical understanding and teaching Jedi powers."
+            },
+            {
+              "id": 5,
+              "photo": "/media/media/instructor/Clear_1.png",
+              "name": "Abd Al-Momen",
+              "position": "Technical Trainer",
+              "is_active": true,
+              "detail": "Building mobile applications over the past 10 years, ranging from Android to iOS and then with Flutter. User experience, satisfaction, and quality are his ultimate goals for delivering apps to users."
+            }
+          ],
+          "modules": [
+            {
+              "id": 12,
+              "title": "Backend",
+              "description": "<p>APIs are ubiquitous, and you&#39;d never be able to utilize many of your particular applications without them.</p>\r\n\r\n<p>Learning how to build an API from the ground up is a vital skill to have as a developer, but it may be intimidating at first.</p>\r\n\r\n<p>We&#39;re here to show you it doesn&#39;t always be that way.</p>\r\n\r\n<p>This course is intended for novices, and we will take you through creating your first API step by step, ensuring that you grasp how the code works rather than attempting to remember everything.</p>\r\n\r\n<p>You don&#39;t have to be a seasoned developer to attend this course since we cover everything, although a few basic Django or Python expertise will assist.</p>\r\n\r\n<p>By the end of this course, you&#39;ll have a strong knowledge of the Django Framework and how to utilize it to create fully functioning APIs.</p>\r\n\r\n<p>What we&#39;ll create:</p>\r\n\r\n<p>This course will teach you step-by-step how to create an API for an online store. After that, people may register an account and purchase their preferred products.</p>\r\n\r\n<p>We plan to introduce more features, such as a rating system that would enable users to vote for their favorite products.</p>\r\n\r\n<p>You&#39;ll also learn how to utilize modeling approaches to transform our model data into JSON and implement token-based authentication for additional security.</p>\r\n\r\n<p>By the conclusion of this course, you would be able to design fully functioning REST APIs confidently.</p>",
+              "duration": 4,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 13,
+              "title": "Mobile app developement with Flutter",
+              "description": "<p><span style=\"color:#0e101a\">Flutter, a Google-created framework, enables you to learn one language (Dart) and quickly create attractive native mobile applications. Flutter is an SDK that provides the tools to convert Dart code into native code as well as a comprehensive collection of pre-built and pre-styled UI components (referred to as widgets) that you can use to build your user interfaces.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">Flutter is very popular, and critical Google applications utilize it, such as their Adwords app.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">This course will teach Flutter and Dart from the ground up; no previous knowledge of either is needed! You also don&#39;t need Android or iOS programming expertise since the entire point of Flutter is to master just one language.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">Through this whole course, you will not only study Flutter in theory, but you will also create a complete, functional app. This app will include all of the fundamentals as well as advanced features.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">With Flutter, you can create code once and publish your applications to Apple AppStore and Google Play.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">Using Google&#39;s Material Design, you can create attractive but completely configurable applications with little time and trim work. You may utilize Flutter&#39;s extensive widget suite to add standard UI components like buttons, switches, forms, toolbars, lists, and more - or you can create your widgets - Flutter makes that easy as well.</span></p>\r\n\r\n<p><span style=\"color:#0e101a\">The following is a list of what is included in the course:</span></p>\r\n\r\n<ul>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">A comprehensive introduction to Flutter, Dart, and the widget idea.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">An overview of the built-in widgets, as well as how to create your own.</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Tips and Tricks for Debugging</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Tabbed page navigation, side drawers, and stack-based navigation</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Solutions for state management</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Taking care of and verifying user input</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Using native device capabilities</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">Including lovely animations and page transitions</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">How to Get Your App Into App Stores</span></li>\r\n\t<li style=\"list-style-type:disc\"><span style=\"color:#0e101a\">And there&#39;s more!</span></li>\r\n</ul>",
+              "duration": 4,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            },
+            {
+              "id": 14,
+              "title": "Final project",
+              "description": "<p>You will be building a graduation project in which you will apply all your gained skills into. The final project is your path towards reserving a place at the annual fair organized by Computiq.</p>\r\n\r\n<p>The annual fair is your stage of fame; you will show your capabilities to the full, where you will compete with others to show competency. You will have the ultimate chance to secure a full-time position or as a freelancer full-stack mobile developer.</p>\r\n\r\n<p>Your effort alongside the skills obtained during the courseware is your TIQ to success.</p>",
+              "duration": 4,
+              "price": 0,
+              "images": [],
+              "timeline": null
+            }
+          ],
+          "status": "closed",
+          "link": "https://forms.gle/721m6g6FUvUjmRxq8",
+          "category": {
+            "id": 3,
+            "title": "Yanhad",
+            "image": "/media/media/program/categories/pic_2-100.jpg"
+          },
+          "program_date": "2021-09-30",
+          "timeline": {
+            "days": [
+              {
+                "day": "Thursday",
+                "from": "4:00 PM",
+                "to": "7:00 PM"
+              },
+              {
+                "day": "Friday",
+                "from": "2:00 PM",
+                "to": "5:00 PM"
+              },
+              {
+                "day": "Saturday",
+                "from": "4:00 PM",
+                "to": "7:00 PM"
+              }
+            ]
+          },
+          "note": "",
+          "tasks": [
+            {
+              "id": "7bc2c7bd-edc3-43d8-8f53-8e857fe79ab8",
+              "title": "Week 0",
+              "description": "<h5><span style=\"color:#000000\"><em>Task&nbsp;</em></span><span style=\"color:#000000\">: Building Bottom Navigation Bars with ListView</span></h5>"
+            },
+            {
+              "id": "d478f775-deb9-44ad-baf5-1f5c73e47f49",
+              "title": "Week 1",
+              "description": "<h5><br />\r\nTask : You can choose either task 1 or task 2 to design/implement</h5>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h5>1) Saving/Restoring notes from Todo notes app</h5>\r\n\r\n<h5>(Implemented in Session 5)</h5>\r\n\r\n<ul>\r\n\t<li>You can use&nbsp;<a href=\"https://pub.dev/packages/shared_preferences\" rel=\"nofollow\">SharedPreferences</a>&nbsp;library to persist data</li>\r\n\t<li>Convert NoteModel object to json to store it as a String</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h5>2) Building Car Renting UIs</h5>\r\n\r\n<p><a href=\"https://raw.githubusercontent.com/computiq/flutter-course/main/tasks_resources/week2/car-renting-uis.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://raw.githubusercontent.com/computiq/flutter-course/main/tasks_resources/week2/car-renting-uis.jpg\" style=\"height:525px; width:700px\" /></a></p>\r\n\r\n<ul>\r\n\t<li>You can use&nbsp;<a href=\"https://github.com/computiq/flutter-course/blob/main/tasks_resources/week2/car-renting-uis.jpg\" target=\"_blank\">waves.png</a>&nbsp;image as the background for the top of the first page</li>\r\n\t<li>You can use&nbsp;<a href=\"https://freepngimg.com/cars\" rel=\"nofollow\" target=\"_blank\">freepingimg.com</a>&nbsp;website to get transparent png cars</li>\r\n</ul>"
+            },
+            {
+              "id": "7917a41a-61cf-4210-9191-8cb80d90c322",
+              "title": "Week 2",
+              "description": "<h5>&nbsp;</h5>\r\n\r\n<h5>Weather Application<br />\r\n&nbsp;</h5>\r\n\r\n<h6><strong>Description</strong></h6>\r\n\r\n<p>A fully functional weather application.</p>\r\n\r\n<ul>\r\n\t<li>You can choose any weather UI.</li>\r\n\t<li>Must show and handle the following attributes\r\n\t<ul>\r\n\t\t<li>Current temperature (in &deg;C) of the existing city (.e.g., Baghdad)</li>\r\n\t\t<li>Current weather condition with an image or illustration (e.g., when it is cloudy, it should show clouds image)</li>\r\n\t\t<li>Handling network states: success, failures, and retries</li>\r\n\t\t<li>Shows the estimated weather for the next 7 days</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>A Plus (Optional)\r\n\t<ul>\r\n\t\t<li>Adding multiple cities (saved/restored cities)</li>\r\n\t\t<li>Launch screen</li>\r\n\t\t<li>App icon and name</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h6><strong>Resources</strong></h6>\r\n\r\n<ul>\r\n\t<li>Weather API:&nbsp;<a href=\"https://www.weatherapi.com/\" rel=\"nofollow\">WeatherAPI</a>\r\n\r\n\t<ul>\r\n\t\t<li>You can use your API key to test requests and responses from their&nbsp;<a href=\"https://www.weatherapi.com/api-explorer.aspx\" rel=\"nofollow\">API Explorer</a></li>\r\n\t</ul>\r\n\t</li>\r\n</ul>"
+            },
+            {
+              "id": "a0ad2341-9db7-4da3-ace7-114328b12e5d",
+              "title": "Week 3",
+              "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>"
+            }
+          ]
+        }
+      ],
+      "photo": "🖱"
+    },
+    "token": {
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg5NDAzNDhhLTExNjUtNDZkZC1iMzIzLWUyNGFhMGVjZDg1YiIsImV4cCI6MTY0NDMwMjY4NCwic3ViIjoiYWNjZXNzIn0.6OpsSPmW9qnjXuR9B_UFJev7zwPXl2HbJRB_XBq8S-A",
+      "token_type": "bearer"
+    }
+  }
